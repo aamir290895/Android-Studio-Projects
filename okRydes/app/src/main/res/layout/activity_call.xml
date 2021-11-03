@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.isracorporations.okrydes.call">
+
+    <TextView
+        android:id="@+id/callState"
+        android:layout_width="305dp"
+        android:layout_height="50dp"
+        android:layout_above="@+id/call"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="248dp"
+        android:layout_marginEnd="48dp"
+        android:layout_marginBottom="44dp"
+        android:background="#9C27B0"
+        android:gravity="center_horizontal" />
+
+    <Button
+        android:id="@+id/call"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:background="@color/teal_700"
+        android:text="@string/call"
+        android:textColor="@color/white" />
+</RelativeLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/bevan</item>
+        <item>@font/bowlby_one_sc</item>
+        <item>@font/dynalight</item>
+        <item>@font/faster_one</item>
+        <item>@font/fredoka_one</item>
+    </array>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">snapcool</string>
+    <string name="chat_fragment">chat fragment</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "964049294257",
+    "firebase_url": "https://mummy-14048.firebaseio.com",
+    "project_id": "mummy-14048",
+    "storage_bucket": "mummy-14048.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964049294257:android:6a52c615c350b690de2390",
+        "android_client_info": {
+          "package_name": "com.example.mom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964049294257-96sdj5autttf4dtfvk4vjgr3u7vol19l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jx3sgbtWQi1TUtUw_PESwoV4O0ryhDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964049294257-96sdj5autttf4dtfvk4vjgr3u7vol19l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

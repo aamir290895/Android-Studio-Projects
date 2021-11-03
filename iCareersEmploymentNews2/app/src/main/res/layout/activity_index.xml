@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".index">
+    <androidx.coordinatorlayout.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="@color/back"
+        app:layout_constraintTop_toTopOf="parent">
+
+
+    <androidx.appcompat.widget.Toolbar
+       android:layout_width="match_parent"
+       android:layout_height="100dp"
+        android:background="@color/green"
+       android:theme="@style/Theme.Design.Light"
+       android:id="@+id/toolbar1">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="80dp"
+            android:src="@drawable/ic_baseline_menu_book_24"
+            android:background="@drawable/brand_logo"/>
+
+        <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:fontFamily="sans-serif-black"
+                android:layout_marginTop="10dp"
+                android:padding="15dp"
+                android:text="@string/iCareer"
+                android:textSize="19sp" />
+
+
+</androidx.appcompat.widget.Toolbar>
+
+
+
+
+        <androidx.recyclerview.widget.RecyclerView
+            android:id="@+id/rv"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="100dp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.831"/>
+
+
+
+    </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

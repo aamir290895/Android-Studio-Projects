@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">okRydes</string>
+    <string name="phone">phone</string>
+    <string name="otp">OTP VERIFICATION </string>
+    <string name="country_code">91 </string>
+    <string name="wait_for_the_code_i_sent_you">Wait for the code I sent You</string>
+    <string name="enter_verification_code">enter verification code</string>
+    <string name="sign_in">Sign In</string>
+    <string name="send">Send</string>
+
+    <string name="todo">TODO</string>
+    <string name="may_i_ask_your_phone_number">May I ask your phone number?</string>
+    <string name="enter_your_mobile_number">enter your mobile number</string>
+    <string name="xyz">TODO</string>
+    <string name="cnt">continue</string>
+    <string name="todo2">TODO</string>
+    <string name="pol">otp</string>
+    <string name="login">Button</string>
+    <string name="enter_otp">enter otp</string>
+
+    <string name="ask">May I ask your phone number?</string>
+    <string name="hint_mob">enter your mobile number</string>
+    <string name="next">next</string>
+    <string name="mobile">mobile</string>
+
+    <string name="upi_app">UPI App :</string>
+    <string name="amount_xx_xx">Amount (XX.XX)</string>
+    <string name="amount">TextView</string>
+    <string name="enter_amount">ENTER_AMOUNT</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="enable_gps">enable gps</string>
+    <string name="caller_id">caller id</string>
+    <string name="reciepent_id">reciepent id</string>
+    <string name="enter">Button</string>
+    <string name="call">Call</string>
+    <string name="login1">Login</string>
+    <string name="caller_name">Caller Name</string>
+    <string name="recipient_name">Recipient Name</string>
+    <string name="pre">Button</string>
+    <string name="emailDriver">emailDriver</string>
+    <string name="register">register</string>
+    <string name="passwordDriver">password</string>
+    <string name="logy">login</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+</resources>

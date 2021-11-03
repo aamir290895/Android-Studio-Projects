@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "34722766785",
+    "firebase_url": "https://greeno-munger-default-rtdb.firebaseio.com",
+    "project_id": "greeno-munger",
+    "storage_bucket": "greeno-munger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34722766785:android:e128e8f27173a9a6315940",
+        "android_client_info": {
+          "package_name": "com.greenomungerthree.greenomunger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34722766785-9pnpi7o8vr7vul9q9j4arq9s6f9jgjp3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.greenomungerthree.greenomunger",
+            "certificate_hash": "de36f3b8a52021f9e1a85579c2c721962fc727cc"
+          }
+        },
+        {
+          "client_id": "34722766785-pqvsv3jh0e4ue189lh78tnt2iu9uu5es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx4Jtd9IE6f021sRnxZEHrwII5Tm7CwCw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34722766785-pqvsv3jh0e4ue189lh78tnt2iu9uu5es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

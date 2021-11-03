@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">intent</string>
+
+
+
+    <string name="btn1">Button</string>
+    <string name="button">Button</string>
+</resources>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/save"
+        android:layout_width="231dp"
+        android:layout_height="58dp"
+        android:text="@string/save_pdf"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/cardView"
+        app:layout_constraintVertical_bias="0.041"/>
+
+
+    <Button
+        android:id="@+id/home"
+        android:layout_width="231dp"
+        android:layout_height="58dp"
+        android:text="@string/home"
+        app:layout_constraintBottom_toTopOf="@+id/cardView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.845" />
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="256dp"
+        android:layout_height="303dp"
+        android:layout_marginEnd="41dp"
+        android:layout_marginBottom="7dp"
+        app:cardCornerRadius="20dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.675"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.399">
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="266dp"
+            android:layout_height="wrap_content"
+            android:contentDescription="@string/pick_images_from_gallery"
+            app:srcCompat="@drawable/eros" />
+
+    </androidx.cardview.widget.CardView>
+
+    <com.google.android.gms.ads.AdView
+
+        android:id="@+id/adView"
+        android:layout_width="396dp"
+        android:layout_height="97dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="24dp"
+        android:visibility="visible"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-3411115573541901/2057833266"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/save"
+        app:layout_constraintVertical_bias="1.0"
+        tools:visibility="visible">
+
+    </com.google.android.gms.ads.AdView>
+</androidx.constraintlayout.widget.ConstraintLayout>

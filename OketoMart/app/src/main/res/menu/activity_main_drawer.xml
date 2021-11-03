@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_cart"
+            android:icon="@drawable/ic_baseline_shopping_cart_24"
+            android:title="@string/cart" />
+        <item
+            android:id="@+id/nav_orders"
+            android:icon="@drawable/ic_baseline_shopping_bag_24"
+            android:title="Orders" />
+        <item
+            android:id="@+id/nav_categories"
+            android:icon="@drawable/ic_baseline_categories"
+            android:title="Categories" />
+        <item
+            android:id="@+id/nav_amazon"
+            android:icon="@drawable/ic_baseline_delivery_dining_24"
+            android:title="Track Delivery" />
+
+        <item
+            android:id="@+id/nav_pin_change"
+            android:icon="@drawable/ic_baseline_not_listed_location_24"
+            android:title="Select Pincode" />
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_baseline_person_24"
+            android:title="Logout" />
+
+
+    </group>
+</menu>

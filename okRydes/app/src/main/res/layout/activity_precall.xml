@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <EditText
+        android:id="@+id/callerId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/recipientId"
+        android:layout_marginBottom="16dp"
+        android:autofillHints=""
+        android:backgroundTint="#A3F3A6"
+        android:hint="@string/caller_name"
+        android:inputType="phone" />
+
+    <EditText
+
+        android:id="@+id/recipientId"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/poy"
+        android:layout_marginBottom="5dp"
+        android:autofillHints=""
+        android:backgroundTint="#6DA16F"
+        android:hint="@string/recipient_name"
+        android:inputType="phone" />
+
+    <Button
+        android:id="@+id/poy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="301dp"
+        android:backgroundTint="#FF5722"
+        android:text="@string/login1" />
+
+</RelativeLayout>

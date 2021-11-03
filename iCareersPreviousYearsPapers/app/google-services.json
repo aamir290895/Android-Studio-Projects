@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "675294940843",
+    "firebase_url": "https://icareers--pervious-year-default-rtdb.firebaseio.com",
+    "project_id": "icareers--pervious-year",
+    "storage_bucket": "icareers--pervious-year.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675294940843:android:a023a0c05bcb8d017771ee",
+        "android_client_info": {
+          "package_name": "com.isracorporations.icareers_previousyearspapers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675294940843-t43e58q4lrbh95hore717v95gsvo2pt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isracorporations.icareers_previousyearspapers",
+            "certificate_hash": "de36f3b8a52021f9e1a85579c2c721962fc727cc"
+          }
+        },
+        {
+          "client_id": "675294940843-c20ehca5ldpr1qc1970kjvfrdvbpnoh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyfwkkIWFZ76LfaV4X8R6dfkG4nqkGgAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675294940843-c20ehca5ldpr1qc1970kjvfrdvbpnoh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

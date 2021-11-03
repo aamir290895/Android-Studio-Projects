@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name" translatable="false">cab</string>
+
+
+    <string name="emailDriver">email......</string>
+    <string name="passwordDriver">Password........</string>
+    <string name="driver">driver</string>
+    <string name="user">user</string>
+    <string name="lgn2">Button</string>
+    <string name="p2">Password.......</string>
+    <string name="e2">email..........</string>
+    <string name="login">login</string>
+    <string name="phone">phone</string>
+
+
+
+    <string name="title_activity_drivers_map">Map</string>
+
+    <string name="title_activity_customer_map">Map</string>
+
+    <string name="register">register</string>
+
+    <string name="title_activity_maps">Map</string>
+    <string name="register1">REGISTER</string>
+    <string name="login1">LOGIN</string>
+    <string name="todo">TODO</string>
+
+    <string name="view2">view2</string>
+    <string name="search">search</string>
+    <string name="button">Button</string>
+    <string name="setLocation">LOCSA</string>
+    <string name="location">location</string>
+    <string name="show">show</string>
+
+    <string name="secret">ZtUobHiq3kmiL/R8jxZLvQ==</string>
+
+    <string name="useridSinch">\" 165863\"</string>
+    <string name="keySinch">3dfc2b39-5c68-4664-85f5-c41844580a86</string>
+    <string name="calling">Button</string>
+
+
+</resources>

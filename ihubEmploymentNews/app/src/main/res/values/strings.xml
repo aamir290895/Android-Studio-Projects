@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ihubEmploymentNews</string>
+    <string name="xty">xyz</string>
+    <string name="textview">TextView</string>
+    <string name="email">email</string>
+    <string name="passwrd">passwrd</string>
+    <string name="login">login</string>
+    <string name="registration">registration</string>
+    <string name="images">images</string>
+</resources>

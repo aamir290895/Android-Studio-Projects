@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "905425456780",
+    "firebase_url": "https://okrydes-303422-default-rtdb.firebaseio.com",
+    "project_id": "okrydes-303422",
+    "storage_bucket": "okrydes-303422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905425456780:android:af37364c3ec9e3fb2235a9",
+        "android_client_info": {
+          "package_name": "com.isracorporations.okrydes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905425456780-tugab5asak7sfmvcrfaq30sit1usteeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isracorporations.okrydes",
+            "certificate_hash": "de36f3b8a52021f9e1a85579c2c721962fc727cc"
+          }
+        },
+        {
+          "client_id": "905425456780-dglvi3ebnc4is5rqppt9ll4di51njklm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XLKWzVlutG_nR_eGtGku8nzqqKb-JGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905425456780-dglvi3ebnc4is5rqppt9ll4di51njklm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905425456780:android:f4b439f2ec5aaec02235a9",
+        "android_client_info": {
+          "package_name": "com.isracorporations.okrydes_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905425456780-dglvi3ebnc4is5rqppt9ll4di51njklm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3XLKWzVlutG_nR_eGtGku8nzqqKb-JGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905425456780-dglvi3ebnc4is5rqppt9ll4di51njklm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

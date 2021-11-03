@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="300dp"
+    app:cardCornerRadius="8dp"
+    app:cardElevation="4dp"
+    android:layout_margin="8dp"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+    <ImageView
+        android:id="@+id/indexImage"
+        android:layout_marginStart="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="5dp"
+        android:layout_width="match_parent"
+        android:src="@drawable/ic_baseline_menu_book_24"
+        android:layout_height="140dp"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="150dp"
+        android:orientation="vertical"
+        android:padding="12dp">
+<androidx.cardview.widget.CardView
+    app:cardCornerRadius="10dp"
+    android:layout_width="match_parent"
+    android:background="@color/green"
+    android:layout_height="50dp">
+
+    <TextView
+        android:id="@+id/ia1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/green1"
+        android:fontFamily="sans-serif-black"
+        android:textColor="@color/black1"
+
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Large"
+        android:textSize="15sp" />
+</androidx.cardview.widget.CardView>
+        <androidx.cardview.widget.CardView
+            app:cardCornerRadius="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@color/green"
+            android:layout_marginTop="10dp">
+        <TextView
+            android:id="@+id/ia2"
+            android:layout_width="match_parent"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:background="@color/green1"
+            android:fontFamily="sans-serif-black"
+            android:textColor="@color/black1"
+            android:layout_height="50dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        </androidx.cardview.widget.CardView>
+
+
+    </LinearLayout>
+
+
+
+</androidx.cardview.widget.CardView>

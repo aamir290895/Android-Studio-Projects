@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".verification"
+    android:background="@color/teal_700">
+
+
+    <com.hbb20.CountryCodePicker
+        android:id="@+id/ccp"
+        android:layout_width="115dp"
+        android:layout_height="73dp"
+        android:visibility="visible"
+
+        app:ccpDialog_keyboardAutoPopup="false"
+        app:ccp_defaultNameCode="IN"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/editTextMobile"
+        app:layout_constraintHorizontal_bias="0.66"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.405"
+        tools:visibility="visible" />
+
+    <EditText
+        android:id="@+id/editTextMobile"
+        android:layout_width="231dp"
+        android:layout_height="83dp"
+        android:layout_marginEnd="16dp"
+        android:autofillHints=""
+        android:digits="0123456789"
+        android:drawableStart="@color/teal_700"
+        android:drawablePadding="10dp"
+        android:ems="10"
+        android:hint="@string/enter_your_mobile_number"
+        android:inputType="phone"
+        android:visibility="visible"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.396"
+        tools:visibility="visible" />
+
+    <Button
+        android:id="@+id/buttonContinue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/teal_200"
+        android:text="@string/next"
+        android:textAllCaps="false"
+
+        android:textColor="#cdd8f1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.562" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+

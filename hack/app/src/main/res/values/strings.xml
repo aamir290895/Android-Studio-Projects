@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">hack</string>
+    <string name="empty_file_list">ffff</string>
+    <string name="button_ok">ok</string>
+    <string name="file_save_as">file_save_as</string>
+</resources>

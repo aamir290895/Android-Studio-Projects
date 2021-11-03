@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">UPSC Previous Year</string>
+    <string name="textview">dasda</string>
+    <string name="images">asdasda</string>
+    <string name="P1">Name of post/Organization :</string>
+    <string name="P2">Number of vacancies :</string>
+    <string name="P3">Qualifications/Experience:</string>
+    <string name="P4">Age limit and relaxation:</string>
+    <string name="P5">Salary:</string>
+    <string name="P6">Date:</string>
+    <string name="P7">Application end date:</string>
+    <string name="P8">Notification link:</string>
+    <string name="P9">Official website:</string>
+
+
+    <string name="iCareer">UPSC-Previous Year</string>
+    <string name="c1">click here..........</string>
+    <string name="no_internet">no internet</string>
+    <string name="refresh">REFRESH</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="three_dots">News Publisher Details</string>
+    <string name="about">about</string>
+    <string name="mylogo">myLogo</string>
+    <string name="request_otp">CONTINUE</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_marginTop="10dp"
+    android:layout_marginLeft="10dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginBottom="10dp"
+    android:orientation="vertical">
+
+
+
+    <TextView
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:text="Confirm to cancel order"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@color/green"
+        android:gravity="center"
+        android:textSize="25sp" />
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:background="@drawable/shape_button"
+        android:textColor="@color/white"
+        android:id="@+id/cancel_confirm_order"
+        android:text="CANCEL ORDER"/>
+
+
+</LinearLayout>

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "699358175640",
+    "project_id": "snapcool-eb98c",
+    "storage_bucket": "snapcool-eb98c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699358175640:android:87db3375fbc250b1cf4bed",
+        "android_client_info": {
+          "package_name": "com.isracorporations.snapcool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699358175640-b6jlhb93jed23vmobnmofrkegfathk74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isracorporations.snapcool",
+            "certificate_hash": "de36f3b8a52021f9e1a85579c2c721962fc727cc"
+          }
+        },
+        {
+          "client_id": "699358175640-ftjc7la7ao6570qtg1i6v4dict6lqq6m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAX5bcSafFthNaICZoWtcn6Mcl4yFi3gF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699358175640-ftjc7la7ao6570qtg1i6v4dict6lqq6m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

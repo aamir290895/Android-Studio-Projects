@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DeliveryDetails">
+
+   <androidx.appcompat.widget.Toolbar
+       android:id="@+id/toolbar12"
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       android:background="@color/green"
+       android:theme="@style/Theme.Design.Light"
+       app:layout_constraintBottom_toTopOf="@+id/rv_dd"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="parent" >
+      <TextView
+          android:layout_width="match_parent"
+          android:layout_height="match_parent"
+         android:textColor="@color/white"
+          android:gravity="center"
+          android:background="@color/green"
+          android:textSize="18sp"
+         android:text="Delivery Details"/>
+   </androidx.appcompat.widget.Toolbar>
+
+   <androidx.recyclerview.widget.RecyclerView
+       android:id="@+id/rv_dd"
+       android:layout_width="match_parent"
+       android:layout_marginBottom="100dp"
+       android:layout_marginTop="60dp"
+       android:background="@color/back"
+       android:layout_height="match_parent"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintStart_toStartOf="parent"
+       app:layout_constraintTop_toTopOf="@+id/toolbar12"
+       app:layout_constraintBottom_toBottomOf="@+id/add_dd"  />
+
+   <Button
+       android:id="@+id/add_dd"
+       android:layout_width="match_parent"
+       android:layout_height="80dp"
+       android:textColor="@color/white"
+       android:layout_marginBottom="10dp"
+       android:layout_marginTop="10dp"
+       android:background="@color/pink"
+       android:text=" + ADD NEW ADDRESS"
+       android:textSize="18sp"
+       app:layout_constraintBottom_toBottomOf="parent"
+       app:layout_constraintEnd_toEndOf="parent"
+       app:layout_constraintHorizontal_bias="1.0"
+       app:layout_constraintStart_toStartOf="parent" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

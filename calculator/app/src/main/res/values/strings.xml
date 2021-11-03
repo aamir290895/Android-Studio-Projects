@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">calculator</string>
+    <string name="call">call</string>
+    <string name="recieve">recieve</string>
+</resources>

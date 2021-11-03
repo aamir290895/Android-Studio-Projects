@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "177778135476",
+    "project_id": "okrydes",
+    "storage_bucket": "okrydes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177778135476:android:279d5ab9c9fc3abfbea2e1",
+        "android_client_info": {
+          "package_name": "com.isracorporations.okRydes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177778135476-l1bt1tcb1itec30otsjbfpb1l114esbt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isracorporations.okRydes",
+            "certificate_hash": "de36f3b8a52021f9e1a85579c2c721962fc727cc"
+          }
+        },
+        {
+          "client_id": "177778135476-pm0u6l1k3p74e0mrvoivhd6uvcks397q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqqpVxlMRXpLX7ZV6SrsmRRr1W4hkWzfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177778135476-pm0u6l1k3p74e0mrvoivhd6uvcks397q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177778135476:android:964b32cde4f46104bea2e1",
+        "android_client_info": {
+          "package_name": "com.isracorporations.okrydes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177778135476-pm0u6l1k3p74e0mrvoivhd6uvcks397q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqqpVxlMRXpLX7ZV6SrsmRRr1W4hkWzfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177778135476-pm0u6l1k3p74e0mrvoivhd6uvcks397q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

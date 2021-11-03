@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "168277621105",
+    "firebase_url": "https://rewaride.firebaseio.com",
+    "project_id": "rewaride",
+    "storage_bucket": "rewaride.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168277621105:android:c5ade4af5a9d7f7bab9ed0",
+        "android_client_info": {
+          "package_name": "com.example.rewaride"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168277621105-s8l4v26n47ghorjmab7r7k4o9difqju1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK8_oLrU4jyiU-2JdXxLMWnPuJ0L3F4xA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168277621105-s8l4v26n47ghorjmab7r7k4o9difqju1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

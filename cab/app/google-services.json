@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1004501984009",
+    "firebase_url": "https://mycab-cedba.firebaseio.com",
+    "project_id": "mycab-cedba",
+    "storage_bucket": "mycab-cedba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004501984009:android:93b9baab055839ca0b29d8",
+        "android_client_info": {
+          "package_name": "com.example.cab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004501984009-6jhsm59qi70mhaurobc30q459qb1jd16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0WWpohajXXZVkOFDy7ZSxRg3CSMDTs0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004501984009-6jhsm59qi70mhaurobc30q459qb1jd16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

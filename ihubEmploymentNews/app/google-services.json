@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "941871921180",
+    "firebase_url": "https://ihubemploymentnews-default-rtdb.firebaseio.com",
+    "project_id": "ihubemploymentnews",
+    "storage_bucket": "ihubemploymentnews.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941871921180:android:ff2100454ccf502477c7d9",
+        "android_client_info": {
+          "package_name": "com.isracorporations.ihubemploymentnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941871921180-fi6pb06a1rb7gno2brdctd57mg5cehgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isracorporations.ihubemploymentnews",
+            "certificate_hash": "de36f3b8a52021f9e1a85579c2c721962fc727cc"
+          }
+        },
+        {
+          "client_id": "941871921180-kpeg2qns62gc6cnn28a811rnpvchedt1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4H8hMyvKiFyhnGPZcrd_oS79Pja_oYns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941871921180-kpeg2qns62gc6cnn28a811rnpvchedt1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

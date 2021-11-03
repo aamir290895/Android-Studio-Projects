@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">editorImage</string>
+    <string name="img">img</string>
+    <string name="button">Button</string>
+    <string name="camera">camera</string>
+
+    <string name="button1">Button</string>
+    <string name="yy">yy</string>
+    <string name="c">camera</string>
+    <string name="xyz">xyz</string>
+    <string name="xyt">xyt</string>
+    <string name="save">save</string>
+</resources>

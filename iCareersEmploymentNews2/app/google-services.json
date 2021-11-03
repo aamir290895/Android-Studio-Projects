@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166591272991",
+    "firebase_url": "https://icareers-employment-news-906af-default-rtdb.firebaseio.com",
+    "project_id": "icareers-employment-news-906af",
+    "storage_bucket": "icareers-employment-news-906af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166591272991:android:cc16f775acdd6968951d2a",
+        "android_client_info": {
+          "package_name": "com.isracorporations.icareersemploymentnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166591272991-8k7f352mfkac1rnqdl0ilusu14rqbr2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-u-eynI2y7XgslzXzS9B86H1Q6KC8D2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166591272991-8k7f352mfkac1rnqdl0ilusu14rqbr2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

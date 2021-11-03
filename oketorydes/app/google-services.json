@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "543815650836",
+    "project_id": "oketorydes",
+    "storage_bucket": "oketorydes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543815650836:android:919cb2afdbad32459aa101",
+        "android_client_info": {
+          "package_name": "com.isracorporations.oketorydes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543815650836-bveajidmekvvqvqu4rqm4hiqr6mpa7oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.isracorporations.oketorydes",
+            "certificate_hash": "de36f3b8a52021f9e1a85579c2c721962fc727cc"
+          }
+        },
+        {
+          "client_id": "543815650836-ovlicso4hf099ohm7vhf2lml9d217aup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaOJbxymaQ_4JvTR52tET05AfWeMJoAZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543815650836-ovlicso4hf099ohm7vhf2lml9d217aup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

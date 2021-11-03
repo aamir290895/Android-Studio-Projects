@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">pdfMaker</string>
+    <string name="pick_images_from_gallery">pick images</string>
+    <string name="save_pdf">SAVE</string>
+    <string name="home">HOME</string>
+    <string name="pdf_maker">pdf maker</string>
+    <string name="pick_images">PICK IMAGES</string>
+    <string name="xty">rr</string>
+    <string name="ssc_previous_year">Pdf Maker</string>
+    <string name="open_gallery">open gallery</string>
+    <string name="save">SAVE</string>
+
+</resources>

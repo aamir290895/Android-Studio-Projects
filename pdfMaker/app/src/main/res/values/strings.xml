@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PDF MAKER</string>
+    <string name="pick_images">PICK IMAGES</string>
+    <string name="pick_images_from_gallery">pick images from gallery</string>
+    <string name="save_pdf">SAVE PDF</string>
+    <string name="home">BACK</string>
+    <string name="select_folder">SELECT FOLDER</string>
+    <string name="pdf_maker">PDF MAKER</string>
+    <string name="pdf" />
+</resources>
